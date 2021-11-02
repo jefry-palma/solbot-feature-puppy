@@ -1,0 +1,22 @@
+{
+    "Records": [
+        {
+            "EventSource": "aws:sns",
+            "EventVersion": "1.0",
+            "EventSubscriptionArn": "arn:aws:sns:us-east-1:165443708813:Image-Saver:0b411501-cfdd-424c-9433-cd61202020e9",
+            "Sns": {
+                "Type": "Notification",
+                "MessageId": "2c23bddc-1538-5c89-bf83-e42744249d35",
+                "TopicArn": "arn:aws:sns:us-east-1:165443708813:Image-Saver",
+                "Subject": null,
+                "Message": "{\"query\": \"puppy poodle\", \"execution_id\": \"puppy_11022021210638390647\"}",
+                "Timestamp": "2021-11-02T14:44:44.739Z",
+                "SignatureVersion": "1",
+                "Signature": "kGx4yLKhUGIaWbb8H6qmrsXCSZR5mY975ElwyONwITvi74O9BszpZGLb90FWkXtbrbrePUfUogcnY9P1qJIR53MoIbnfdAwFxZXRoW8dI7bP8XqlPvBHCz4dyKRWpz1KmuKY4qoK31BjeEpsn1F9640mbH+tL/7CtGBG+nI2I68lJAMpoxwhI0M4yle37IQF51IxYcxQG+QavAKctVhLtMI/tfBsUiozItGR6Di1XkZzblQ+gFMz6EEr3M1GMTeHFFxX7CF69gG3qff4SG19+H/xNAq1rar5UyRE5O8Ww7FO2sL857qY4RhYEVjBOfd/HWTCTBie4zMldqQhq87EbA==",
+                "SigningCertUrl": "https://sns.us-east-1.amazonaws.com/SimpleNotificationService-7ff5318490ec183fbaddaa2a969abfda.pem",
+                "UnsubscribeUrl": "https://sns.us-east-1.amazonaws.com/?Action=Unsubscribe&SubscriptionArn=arn:aws:sns:us-east-1:165443708813:Image-Saver:0b411501-cfdd-424c-9433-cd61202020e9",
+                "MessageAttributes": {}
+            }
+        }
+    ]
+}
